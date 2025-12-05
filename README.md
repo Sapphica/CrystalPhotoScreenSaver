@@ -80,19 +80,6 @@ Done.
 
 ---
 
-## 🧩 Recruiter-Ready Summary
-CrystalPhoto-ScreenSaver is a custom-built fullscreen rendering system designed to replace the default Windows photo screensaver. It provides high-performance image transitions, true randomness, correct EXIF handling, iPhone-photo scaling, and instant exit responsiveness.
-
-This project demonstrates:
-- Rendering pipeline architecture
-- Transition animation engine design
-- Image decoding, EXIF correction, HEIC parsing
-- Real-time event-loop control
-- System-level Windows integration
-- Python-to-binary packaging (PyInstaller)
-
----
-
 # 🛠 Technical Architecture
 
 ## 1. Image Pipeline
